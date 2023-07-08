@@ -1,0 +1,7 @@
+roni
+dfj
+ReadableStreamDefaultReader
+dfj
+
+
+<ReadableStreamDefaultReaderdf>debugger</ReadableStreamDefaultReaderdf>
